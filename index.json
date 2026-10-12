@@ -1,0 +1,454 @@
+{
+  "repository_name": "PPM Community Repository",
+  "repository_version": 1,
+  "packages": [
+    {
+      "name": "rich",
+      "version": "latest",
+      "distribution": "rich",
+      "pip_spec": "rich",
+      "description": "Rich terminal formatting, tables, panels, and progress displays."
+    },
+    {
+      "name": "typer",
+      "version": "latest",
+      "distribution": "typer",
+      "pip_spec": "typer",
+      "description": "Build command-line applications with Python type hints."
+    },
+    {
+      "name": "questionary",
+      "version": "latest",
+      "distribution": "questionary",
+      "pip_spec": "questionary",
+      "description": "Create interactive terminal prompts and selection menus."
+    },
+    {
+      "name": "tqdm",
+      "version": "latest",
+      "distribution": "tqdm",
+      "pip_spec": "tqdm",
+      "description": "Display progress bars for loops and long-running tasks."
+    },
+    {
+      "name": "click",
+      "version": "latest",
+      "distribution": "click",
+      "pip_spec": "click",
+      "description": "Create composable command-line interfaces."
+    },
+    {
+      "name": "colorama",
+      "version": "latest",
+      "distribution": "colorama",
+      "pip_spec": "colorama",
+      "description": "Cross-platform colored terminal output."
+    },
+    {
+      "name": "loguru",
+      "version": "latest",
+      "distribution": "loguru",
+      "pip_spec": "loguru",
+      "description": "Convenient application logging with useful defaults."
+    },
+    {
+      "name": "structlog",
+      "version": "latest",
+      "distribution": "structlog",
+      "pip_spec": "structlog",
+      "description": "Structured logging for Python applications."
+    },
+    {
+      "name": "requests",
+      "version": "latest",
+      "distribution": "requests",
+      "pip_spec": "requests",
+      "description": "Make straightforward HTTP requests."
+    },
+    {
+      "name": "httpx",
+      "version": "latest",
+      "distribution": "httpx",
+      "pip_spec": "httpx",
+      "description": "HTTP client supporting synchronous and asynchronous requests."
+    },
+    {
+      "name": "aiohttp",
+      "version": "latest",
+      "distribution": "aiohttp",
+      "pip_spec": "aiohttp",
+      "description": "Asynchronous HTTP client and server framework."
+    },
+    {
+      "name": "beautifulsoup4",
+      "version": "latest",
+      "distribution": "beautifulsoup4",
+      "pip_spec": "beautifulsoup4",
+      "description": "Parse HTML and XML documents for web scraping."
+    },
+    {
+      "name": "lxml",
+      "version": "latest",
+      "distribution": "lxml",
+      "pip_spec": "lxml",
+      "description": "Fast HTML and XML processing."
+    },
+    {
+      "name": "scrapy",
+      "version": "latest",
+      "distribution": "scrapy",
+      "pip_spec": "scrapy",
+      "description": "Framework for building web crawlers and scraping projects."
+    },
+    {
+      "name": "selenium",
+      "version": "latest",
+      "distribution": "selenium",
+      "pip_spec": "selenium",
+      "description": "Automate browsers for testing and web workflows."
+    },
+    {
+      "name": "playwright",
+      "version": "latest",
+      "distribution": "playwright",
+      "pip_spec": "playwright",
+      "description": "Reliable browser automation for Chromium, Firefox, and WebKit."
+    },
+    {
+      "name": "python-dotenv",
+      "version": "latest",
+      "distribution": "python-dotenv",
+      "pip_spec": "python-dotenv",
+      "description": "Load environment variables from .env files."
+    },
+    {
+      "name": "pydantic",
+      "version": "latest",
+      "distribution": "pydantic",
+      "pip_spec": "pydantic",
+      "description": "Validate data using Python type annotations."
+    },
+    {
+      "name": "PyYAML",
+      "version": "latest",
+      "distribution": "PyYAML",
+      "pip_spec": "PyYAML",
+      "description": "Read and write YAML configuration files."
+    },
+    {
+      "name": "toml",
+      "version": "latest",
+      "distribution": "toml",
+      "pip_spec": "toml",
+      "description": "Parse and write TOML configuration files."
+    },
+    {
+      "name": "orjson",
+      "version": "latest",
+      "distribution": "orjson",
+      "pip_spec": "orjson",
+      "description": "Fast JSON serialization and deserialization."
+    },
+    {
+      "name": "numpy",
+      "version": "latest",
+      "distribution": "numpy",
+      "pip_spec": "numpy",
+      "description": "Core numerical arrays and scientific computing tools."
+    },
+    {
+      "name": "pandas",
+      "version": "latest",
+      "distribution": "pandas",
+      "pip_spec": "pandas",
+      "description": "Work with tabular data using DataFrames."
+    },
+    {
+      "name": "polars",
+      "version": "latest",
+      "distribution": "polars",
+      "pip_spec": "polars",
+      "description": "Fast DataFrame library for data processing."
+    },
+    {
+      "name": "matplotlib",
+      "version": "latest",
+      "distribution": "matplotlib",
+      "pip_spec": "matplotlib",
+      "description": "Create charts and visualizations."
+    },
+    {
+      "name": "seaborn",
+      "version": "latest",
+      "distribution": "seaborn",
+      "pip_spec": "seaborn",
+      "description": "Create statistical data visualizations."
+    },
+    {
+      "name": "plotly",
+      "version": "latest",
+      "distribution": "plotly",
+      "pip_spec": "plotly",
+      "description": "Build interactive charts and visualizations."
+    },
+    {
+      "name": "Pillow",
+      "version": "latest",
+      "distribution": "Pillow",
+      "pip_spec": "Pillow",
+      "description": "Open, process, and save images."
+    },
+    {
+      "name": "opencv-python",
+      "version": "latest",
+      "distribution": "opencv-python",
+      "pip_spec": "opencv-python",
+      "description": "Computer vision and image-processing tools."
+    },
+    {
+      "name": "scikit-learn",
+      "version": "latest",
+      "distribution": "scikit-learn",
+      "pip_spec": "scikit-learn",
+      "description": "Machine learning tools for classical modeling."
+    },
+    {
+      "name": "scipy",
+      "version": "latest",
+      "distribution": "scipy",
+      "pip_spec": "scipy",
+      "description": "Scientific computing, optimization, and statistics."
+    },
+    {
+      "name": "sympy",
+      "version": "latest",
+      "distribution": "sympy",
+      "pip_spec": "sympy",
+      "description": "Symbolic mathematics and algebra."
+    },
+    {
+      "name": "jupyterlab",
+      "version": "latest",
+      "distribution": "jupyterlab",
+      "pip_spec": "jupyterlab",
+      "description": "Interactive notebooks and a browser-based coding environment."
+    },
+    {
+      "name": "ipython",
+      "version": "latest",
+      "distribution": "ipython",
+      "pip_spec": "ipython",
+      "description": "An enhanced interactive Python shell."
+    },
+    {
+      "name": "fastapi",
+      "version": "latest",
+      "distribution": "fastapi",
+      "pip_spec": "fastapi",
+      "description": "Build modern APIs with type hints and automatic documentation."
+    },
+    {
+      "name": "uvicorn",
+      "version": "latest",
+      "distribution": "uvicorn",
+      "pip_spec": "uvicorn",
+      "description": "ASGI server for running asynchronous Python web apps."
+    },
+    {
+      "name": "flask",
+      "version": "latest",
+      "distribution": "flask",
+      "pip_spec": "flask",
+      "description": "Lightweight framework for web applications."
+    },
+    {
+      "name": "django",
+      "version": "latest",
+      "distribution": "django",
+      "pip_spec": "django",
+      "description": "Full-featured framework for database-backed web applications."
+    },
+    {
+      "name": "starlette",
+      "version": "latest",
+      "distribution": "starlette",
+      "pip_spec": "starlette",
+      "description": "Lightweight ASGI toolkit for web services."
+    },
+    {
+      "name": "SQLAlchemy",
+      "version": "latest",
+      "distribution": "SQLAlchemy",
+      "pip_spec": "SQLAlchemy",
+      "description": "SQL toolkit and object-relational mapper."
+    },
+    {
+      "name": "alembic",
+      "version": "latest",
+      "distribution": "alembic",
+      "pip_spec": "alembic",
+      "description": "Manage database schema migrations for SQLAlchemy."
+    },
+    {
+      "name": "psycopg",
+      "version": "latest",
+      "distribution": "psycopg[binary]",
+      "pip_spec": "psycopg[binary]",
+      "description": "PostgreSQL database adapter."
+    },
+    {
+      "name": "redis",
+      "version": "latest",
+      "distribution": "redis",
+      "pip_spec": "redis",
+      "description": "Connect to Redis databases and services."
+    },
+    {
+      "name": "celery",
+      "version": "latest",
+      "distribution": "celery",
+      "pip_spec": "celery",
+      "description": "Run distributed background jobs and task queues."
+    },
+    {
+      "name": "tenacity",
+      "version": "latest",
+      "distribution": "tenacity",
+      "pip_spec": "tenacity",
+      "description": "Add configurable retries to functions and operations."
+    },
+    {
+      "name": "cachetools",
+      "version": "latest",
+      "distribution": "cachetools",
+      "pip_spec": "cachetools",
+      "description": "Memoization and cache implementations for Python."
+    },
+    {
+      "name": "pytest",
+      "version": "latest",
+      "distribution": "pytest",
+      "pip_spec": "pytest",
+      "description": "Write and run Python tests."
+    },
+    {
+      "name": "pytest-cov",
+      "version": "latest",
+      "distribution": "pytest-cov",
+      "pip_spec": "pytest-cov",
+      "description": "Measure test coverage with pytest."
+    },
+    {
+      "name": "coverage",
+      "version": "latest",
+      "distribution": "coverage",
+      "pip_spec": "coverage",
+      "description": "Measure code coverage for Python programs."
+    },
+    {
+      "name": "ruff",
+      "version": "latest",
+      "distribution": "ruff",
+      "pip_spec": "ruff",
+      "description": "Fast Python linter and formatter."
+    },
+    {
+      "name": "black",
+      "version": "latest",
+      "distribution": "black",
+      "pip_spec": "black",
+      "description": "Format Python code consistently."
+    },
+    {
+      "name": "mypy",
+      "version": "latest",
+      "distribution": "mypy",
+      "pip_spec": "mypy",
+      "description": "Check Python code using static type analysis."
+    },
+    {
+      "name": "pre-commit",
+      "version": "latest",
+      "distribution": "pre-commit",
+      "pip_spec": "pre-commit",
+      "description": "Run code-quality hooks before commits."
+    },
+    {
+      "name": "hypothesis",
+      "version": "latest",
+      "distribution": "hypothesis",
+      "pip_spec": "hypothesis",
+      "description": "Property-based testing for Python."
+    },
+    {
+      "name": "cryptography",
+      "version": "latest",
+      "distribution": "cryptography",
+      "pip_spec": "cryptography",
+      "description": "Cryptographic primitives and secure protocol support."
+    },
+    {
+      "name": "bcrypt",
+      "version": "latest",
+      "distribution": "bcrypt",
+      "pip_spec": "bcrypt",
+      "description": "Password hashing using bcrypt."
+    },
+    {
+      "name": "passlib",
+      "version": "latest",
+      "distribution": "passlib",
+      "pip_spec": "passlib",
+      "description": "Password hashing utilities and algorithms."
+    },
+    {
+      "name": "boto3",
+      "version": "latest",
+      "distribution": "boto3",
+      "pip_spec": "boto3",
+      "description": "Python SDK for Amazon Web Services."
+    },
+    {
+      "name": "paramiko",
+      "version": "latest",
+      "distribution": "paramiko",
+      "pip_spec": "paramiko",
+      "description": "SSH client and server functionality."
+    },
+    {
+      "name": "openpyxl",
+      "version": "latest",
+      "distribution": "openpyxl",
+      "pip_spec": "openpyxl",
+      "description": "Read and write Excel .xlsx files."
+    },
+    {
+      "name": "XlsxWriter",
+      "version": "latest",
+      "distribution": "XlsxWriter",
+      "pip_spec": "XlsxWriter",
+      "description": "Create Excel .xlsx files with formatting and charts."
+    },
+    {
+      "name": "python-docx",
+      "version": "latest",
+      "distribution": "python-docx",
+      "pip_spec": "python-docx",
+      "description": "Create and edit Microsoft Word .docx documents."
+    },
+    {
+      "name": "reportlab",
+      "version": "latest",
+      "distribution": "reportlab",
+      "pip_spec": "reportlab",
+      "description": "Generate PDF documents from Python."
+    },
+    {
+      "name": "pypdf",
+      "version": "latest",
+      "distribution": "pypdf",
+      "pip_spec": "pypdf",
+      "description": "Read, split, merge, and manipulate PDF files."
+    }
+  ]
+}
